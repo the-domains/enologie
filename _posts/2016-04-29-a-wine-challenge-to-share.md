@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-29T18:33:57.929Z'
-dateModified: '2016-04-29T18:33:53.288Z'
-title: ''
-author: []
+datePublished: '2016-04-29T18:44:43.214Z'
+dateModified: '2016-04-29T18:44:29.429Z'
+title: Enologie.it
+author:
+  - name: ''
+    url: ''
 authors: []
 publisher:
   name: null
