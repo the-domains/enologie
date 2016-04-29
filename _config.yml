@@ -2,6 +2,7 @@ name: Enologie
 favicon: null
 layout_spectrum: 0.04045385913923383
 typography_spectrum: 0.5181236371863633
+title: Enologie
 cta:
   domain: null
   bucket: null
